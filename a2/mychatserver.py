@@ -33,6 +33,7 @@ def handle_client(client_socket, client_address):
             if decoded_msg.lower() == 'exit':
                 break
             formatted_msg = f"{client_address[1]}: {decoded_msg}".encode()
+            print(formatted_msg.decode())
             broadcast(formatted_msg, client_socket)
         except:
             break
