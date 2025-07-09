@@ -1,0 +1,57 @@
+My UUID: e237d4db-9649-496a-8a1d-9fb6a4b58c77
+Sent: uuid=e237d4db-9649-496a-8a1d-9fb6a4b58c77, flag=0
+[Accept Error] [Errno 53] Software caused connection abort
+My UUID: 516d6461-c10e-4bc2-8db8-74e363304796
+Received: uuid=8129f654-8821-4608-96c3-7c79aa7c7794, flag=0, greater, 0, leader_id=None
+[Send Error] [Errno 32] Broken pipe
+My UUID: c946393d-1050-4ee3-9a95-7c55f42be163
+Sent: uuid=c946393d-1050-4ee3-9a95-7c55f42be163, flag=0
+My UUID: 0f466f1b-e7c4-42a1-8bfc-0b8b85cef9e8
+Sent: uuid=0f466f1b-e7c4-42a1-8bfc-0b8b85cef9e8, flag=0
+My UUID: d41ff21a-b28c-4c27-ae05-95cea54a8237
+My UUID: 961558bb-7c94-4b1f-9b35-d6e2b6ebf4f2
+Sent: uuid=961558bb-7c94-4b1f-9b35-d6e2b6ebf4f2, flag=0
+[Accept Error] [Errno 53] Software caused connection abort
+My UUID: f1d1c9c8-e03a-4b00-b9bb-53ef3c066606
+Sent: uuid=f1d1c9c8-e03a-4b00-b9bb-53ef3c066606, flag=0
+Timeout: Leader not found
+[Accept Error] [Errno 53] Software caused connection abort
+My UUID: 4fdf097c-9bbc-4a1c-a90b-2a82535bf4c3
+Sent: uuid=4fdf097c-9bbc-4a1c-a90b-2a82535bf4c3, flag=0
+Timeout: Leader not found
+[Accept Error] [Errno 53] Software caused connection abort
+My UUID: aa13919e-17cf-4fe1-abfc-f7f4c5ae03e5
+Sent: uuid=aa13919e-17cf-4fe1-abfc-f7f4c5ae03e5, flag=0
+Timeout: Leader not found
+[Accept Error] [Errno 53] Software caused connection abort
+My UUID: f98e3218-7ce7-4613-add6-7505c9275f36
+Sent: uuid=f98e3218-7ce7-4613-add6-7505c9275f36, flag=0
+Received: uuid=bc07a479-f58f-4eb0-8098-e89676cce756, flag=0, less, 0, leader_id=None
+Ignored: uuid=bc07a479-f58f-4eb0-8098-e89676cce756, flag=0
+Timeout: Leader not found
+My UUID: 2577d9ef-8e6c-4f8f-80ef-d6b8b3d15d05
+Sent: uuid=2577d9ef-8e6c-4f8f-80ef-d6b8b3d15d05, flag=0
+Received: uuid=28a4e2a8-fd7d-45be-a002-a60afa7972a3, flag=0, greater, 0, leader_id=None
+Sent: uuid=28a4e2a8-fd7d-45be-a002-a60afa7972a3, flag=0
+Timeout: Leader not found
+My UUID: f0f8d0c4-ca33-4a5d-8fa8-ce5f50bd9a3b
+Sent: uuid=f0f8d0c4-ca33-4a5d-8fa8-ce5f50bd9a3b, flag=0
+Received: uuid=9282b1c9-dd94-4d13-adfe-a843301edbd8, flag=0, less, 0, leader_id=None
+Ignored: uuid=9282b1c9-dd94-4d13-adfe-a843301edbd8, flag=0
+Timeout: Leader not found
+My UUID: 418b7c68-f411-49c4-8deb-c33816c929b2
+Sent: uuid=418b7c68-f411-49c4-8deb-c33816c929b2, flag=0
+Timeout: Leader not found
+[Accept Error] [Errno 53] Software caused connection abort
+My UUID: 9ca946ed-1779-4adb-a74a-7c484e38f2c2
+Sent: uuid=9ca946ed-1779-4adb-a74a-7c484e38f2c2, flag=0
+Received: uuid=c93415e1-fb06-41d0-a5d9-f480b0800b01, flag=0, greater, 0, leader_id=None
+Sent: uuid=c93415e1-fb06-41d0-a5d9-f480b0800b01, flag=0
+Timeout: Leader not found
+My UUID: 3313bae8-2201-4870-a6d2-e9cb04cdfe1a
+Sent: uuid=3313bae8-2201-4870-a6d2-e9cb04cdfe1a, flag=0
+Received: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=0, greater, 0, leader_id=None
+Sent: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=0
+Received: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=1, greater, 0, leader_id=None
+Sent: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=0
+Timeout: Leader not found

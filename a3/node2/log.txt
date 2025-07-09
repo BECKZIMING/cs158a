@@ -1,0 +1,73 @@
+My UUID: 5b95758e-8ef8-4666-926b-5a27f44897ff
+Sent: uuid=5b95758e-8ef8-4666-926b-5a27f44897ff, flag=0
+Received: uuid=e237d4db-9649-496a-8a1d-9fb6a4b58c77, flag=0, greater, 0, leader_id=None
+Sent: uuid=e237d4db-9649-496a-8a1d-9fb6a4b58c77, flag=0
+My UUID: b6626bca-9492-4bfe-8e5b-7fe524fc4d8f
+Received: uuid=c946393d-1050-4ee3-9a95-7c55f42be163, flag=0, greater, 0, leader_id=None
+[Send Error] [Errno 32] Broken pipe
+My UUID: ea5d6bc4-4a03-4ba6-b864-74a7c9805137
+Sent: uuid=ea5d6bc4-4a03-4ba6-b864-74a7c9805137, flag=0
+Received: uuid=0f466f1b-e7c4-42a1-8bfc-0b8b85cef9e8, flag=0, less, 0, leader_id=None
+Ignored: uuid=0f466f1b-e7c4-42a1-8bfc-0b8b85cef9e8, flag=0
+My UUID: a06c0bc4-6985-4391-921e-138876d55091
+Sent: uuid=a06c0bc4-6985-4391-921e-138876d55091, flag=0
+[Accept Error] [Errno 53] Software caused connection abort
+My UUID: 7ea36a38-5cca-4bec-9149-8ff08482f695
+Sent: uuid=7ea36a38-5cca-4bec-9149-8ff08482f695, flag=0
+My UUID: a7aaa269-2421-490e-9dc6-e1e71d5281e7
+Sent: uuid=a7aaa269-2421-490e-9dc6-e1e71d5281e7, flag=0
+Received: uuid=961558bb-7c94-4b1f-9b35-d6e2b6ebf4f2, flag=0, less, 0, leader_id=None
+Ignored: uuid=961558bb-7c94-4b1f-9b35-d6e2b6ebf4f2, flag=0
+My UUID: 23aeb4a2-d964-4ea6-96ba-25991127ed91
+Sent: uuid=23aeb4a2-d964-4ea6-96ba-25991127ed91, flag=0
+Received: uuid=f1d1c9c8-e03a-4b00-b9bb-53ef3c066606, flag=0, greater, 0, leader_id=None
+Sent: uuid=f1d1c9c8-e03a-4b00-b9bb-53ef3c066606, flag=0
+Timeout: Leader not found
+My UUID: 0c392da4-4931-4136-bda8-05f4637ce3e9
+Sent: uuid=0c392da4-4931-4136-bda8-05f4637ce3e9, flag=0
+Received: uuid=4fdf097c-9bbc-4a1c-a90b-2a82535bf4c3, flag=0, greater, 0, leader_id=None
+Sent: uuid=4fdf097c-9bbc-4a1c-a90b-2a82535bf4c3, flag=0
+Timeout: Leader not found
+My UUID: 4a43b342-1595-4510-a224-71666c77f7b8
+Sent: uuid=4a43b342-1595-4510-a224-71666c77f7b8, flag=0
+Received: uuid=aa13919e-17cf-4fe1-abfc-f7f4c5ae03e5, flag=0, greater, 0, leader_id=None
+Sent: uuid=aa13919e-17cf-4fe1-abfc-f7f4c5ae03e5, flag=0
+Timeout: Leader not found
+My UUID: 5922a4f3-fb77-45cc-9736-69cf711d7590
+Sent: uuid=5922a4f3-fb77-45cc-9736-69cf711d7590, flag=0
+Received: uuid=f98e3218-7ce7-4613-add6-7505c9275f36, flag=0, greater, 0, leader_id=None
+Sent: uuid=f98e3218-7ce7-4613-add6-7505c9275f36, flag=0
+Timeout: Leader not found
+My UUID: c20f2bf7-e2a9-42d5-b4ed-c85e42e3e286
+Sent: uuid=c20f2bf7-e2a9-42d5-b4ed-c85e42e3e286, flag=0
+Received: uuid=2577d9ef-8e6c-4f8f-80ef-d6b8b3d15d05, flag=0, less, 0, leader_id=None
+Ignored: uuid=2577d9ef-8e6c-4f8f-80ef-d6b8b3d15d05, flag=0
+Received: uuid=28a4e2a8-fd7d-45be-a002-a60afa7972a3, flag=0, less, 0, leader_id=None
+Ignored: uuid=28a4e2a8-fd7d-45be-a002-a60afa7972a3, flag=0
+Timeout: Leader not found
+My UUID: 7d8ae823-a29a-44ba-992d-4309433cba24
+Sent: uuid=7d8ae823-a29a-44ba-992d-4309433cba24, flag=0
+Received: uuid=f0f8d0c4-ca33-4a5d-8fa8-ce5f50bd9a3b, flag=0, greater, 0, leader_id=None
+Sent: uuid=f0f8d0c4-ca33-4a5d-8fa8-ce5f50bd9a3b, flag=0
+Timeout: Leader not found
+My UUID: 5b660cbb-4068-4092-b2d7-fe74979650e4
+Sent: uuid=5b660cbb-4068-4092-b2d7-fe74979650e4, flag=0
+Received: uuid=418b7c68-f411-49c4-8deb-c33816c929b2, flag=0, less, 0, leader_id=None
+Ignored: uuid=418b7c68-f411-49c4-8deb-c33816c929b2, flag=0
+Timeout: Leader not found
+My UUID: eb5586fe-f26d-4c29-b872-6cb7a91f56fd
+Sent: uuid=eb5586fe-f26d-4c29-b872-6cb7a91f56fd, flag=0
+Received: uuid=9ca946ed-1779-4adb-a74a-7c484e38f2c2, flag=0, less, 0, leader_id=None
+Ignored: uuid=9ca946ed-1779-4adb-a74a-7c484e38f2c2, flag=0
+Received: uuid=c93415e1-fb06-41d0-a5d9-f480b0800b01, flag=0, less, 0, leader_id=None
+Ignored: uuid=c93415e1-fb06-41d0-a5d9-f480b0800b01, flag=0
+Timeout: Leader not found
+My UUID: 20f099bd-c2fc-46ae-b3de-9150490041a4
+Sent: uuid=20f099bd-c2fc-46ae-b3de-9150490041a4, flag=0
+Received: uuid=3313bae8-2201-4870-a6d2-e9cb04cdfe1a, flag=0, greater, 0, leader_id=None
+Sent: uuid=3313bae8-2201-4870-a6d2-e9cb04cdfe1a, flag=0
+Received: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=0, greater, 0, leader_id=None
+Sent: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=0
+Received: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=0, greater, 0, leader_id=None
+Sent: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=0
+Timeout: Leader not found

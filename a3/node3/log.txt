@@ -1,0 +1,70 @@
+My UUID: e0af3714-83ae-484d-9679-24dd593438f9
+Received: uuid=5b95758e-8ef8-4666-926b-5a27f44897ff, flag=0, less, 0, leader_id=None
+Ignored: uuid=5b95758e-8ef8-4666-926b-5a27f44897ff, flag=0
+Received: uuid=e237d4db-9649-496a-8a1d-9fb6a4b58c77, flag=0, greater, 0, leader_id=None
+[Send Error] [Errno 32] Broken pipe
+My UUID: 8129f654-8821-4608-96c3-7c79aa7c7794
+Sent: uuid=8129f654-8821-4608-96c3-7c79aa7c7794, flag=0
+[Accept Error] [Errno 53] Software caused connection abort
+My UUID: c411d37a-70ce-46e1-b35c-a4ebcfa39793
+Received: uuid=ea5d6bc4-4a03-4ba6-b864-74a7c9805137, flag=0, greater, 0, leader_id=None
+[Send Error] [Errno 32] Broken pipe
+My UUID: 3d520873-d836-4b11-a147-deaa802bc82f
+Received: uuid=a06c0bc4-6985-4391-921e-138876d55091, flag=0, greater, 0, leader_id=None
+[Send Error] [Errno 32] Broken pipe
+My UUID: 26f26dbb-0e7f-4ee7-91a6-8a10c0b9ec25
+Received: uuid=a7aaa269-2421-490e-9dc6-e1e71d5281e7, flag=0, greater, 0, leader_id=None
+[Send Error] [Errno 32] Broken pipe
+My UUID: 8ee2fab9-2afc-4b54-b359-2e36e4c0f958
+Received: uuid=23aeb4a2-d964-4ea6-96ba-25991127ed91, flag=0, less, 0, leader_id=None
+Ignored: uuid=23aeb4a2-d964-4ea6-96ba-25991127ed91, flag=0
+Received: uuid=f1d1c9c8-e03a-4b00-b9bb-53ef3c066606, flag=0, greater, 0, leader_id=None
+[Send Error] [Errno 32] Broken pipe
+My UUID: 34fe59e7-3437-49d8-b2b5-321d88567cbc
+Received: uuid=0c392da4-4931-4136-bda8-05f4637ce3e9, flag=0, less, 0, leader_id=None
+Ignored: uuid=0c392da4-4931-4136-bda8-05f4637ce3e9, flag=0
+Received: uuid=4fdf097c-9bbc-4a1c-a90b-2a82535bf4c3, flag=0, greater, 0, leader_id=None
+[Send Error] [Errno 32] Broken pipe
+My UUID: df574ffc-421f-464b-8742-9d661526bf2d
+Received: uuid=4a43b342-1595-4510-a224-71666c77f7b8, flag=0, less, 0, leader_id=None
+Ignored: uuid=4a43b342-1595-4510-a224-71666c77f7b8, flag=0
+Received: uuid=aa13919e-17cf-4fe1-abfc-f7f4c5ae03e5, flag=0, less, 0, leader_id=None
+Ignored: uuid=aa13919e-17cf-4fe1-abfc-f7f4c5ae03e5, flag=0
+My UUID: bc07a479-f58f-4eb0-8098-e89676cce756
+Received: uuid=5922a4f3-fb77-45cc-9736-69cf711d7590, flag=0, less, 0, leader_id=None
+Ignored: uuid=5922a4f3-fb77-45cc-9736-69cf711d7590, flag=0
+Received: uuid=f98e3218-7ce7-4613-add6-7505c9275f36, flag=0, greater, 0, leader_id=None
+[Send Error] name 'client' is not defined
+Sent: uuid=bc07a479-f58f-4eb0-8098-e89676cce756, flag=0
+Timeout: Leader not found
+My UUID: 28a4e2a8-fd7d-45be-a002-a60afa7972a3
+Received: uuid=c20f2bf7-e2a9-42d5-b4ed-c85e42e3e286, flag=0, greater, 0, leader_id=None
+[Send Error] name 'client' is not defined
+Sent: uuid=28a4e2a8-fd7d-45be-a002-a60afa7972a3, flag=0
+Timeout: Leader not found
+My UUID: 9282b1c9-dd94-4d13-adfe-a843301edbd8
+Received: uuid=7d8ae823-a29a-44ba-992d-4309433cba24, flag=0, less, 0, leader_id=None
+Ignored: uuid=7d8ae823-a29a-44ba-992d-4309433cba24, flag=0
+Received: uuid=f0f8d0c4-ca33-4a5d-8fa8-ce5f50bd9a3b, flag=0, greater, 0, leader_id=None
+[Send Error] name 'client' is not defined
+Sent: uuid=9282b1c9-dd94-4d13-adfe-a843301edbd8, flag=0
+Timeout: Leader not found
+My UUID: 0618e6a0-7925-45d2-a441-70e5e27be6c9
+Received: uuid=5b660cbb-4068-4092-b2d7-fe74979650e4, flag=0, greater, 0, leader_id=None
+[Send Error] [Errno 32] Broken pipe
+My UUID: c93415e1-fb06-41d0-a5d9-f480b0800b01
+Received: uuid=eb5586fe-f26d-4c29-b872-6cb7a91f56fd, flag=0, greater, 0, leader_id=None
+[Send Error] name 'client' is not defined
+Sent: uuid=c93415e1-fb06-41d0-a5d9-f480b0800b01, flag=0
+Timeout: Leader not found
+My UUID: ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4
+Received: uuid=20f099bd-c2fc-46ae-b3de-9150490041a4, flag=0, less, 0, leader_id=None
+Ignored: uuid=20f099bd-c2fc-46ae-b3de-9150490041a4, flag=0
+Received: uuid=3313bae8-2201-4870-a6d2-e9cb04cdfe1a, flag=0, less, 0, leader_id=None
+Ignored: uuid=3313bae8-2201-4870-a6d2-e9cb04cdfe1a, flag=0
+Sent: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=0
+Received: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=0, same, 0, leader_id=None
+Leader is decided to ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4
+Sent: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=1
+Waiting to propagate flag=1...
+Received: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=0, same, 1, leader_id=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4
