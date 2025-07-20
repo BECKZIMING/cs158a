@@ -68,3 +68,13 @@ Leader is decided to ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4
 Sent: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=1
 Waiting to propagate flag=1...
 Received: uuid=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4, flag=0, same, 1, leader_id=ca5b9ff5-af20-4253-b9df-4a1ed4d1dba4
+My UUID: b834054a-bb7e-4054-818b-96826994f28c
+Received: uuid=866a6f1b-7229-4210-aae5-71840f002892, flag=0, less, 0, leader_id=None
+Ignored: uuid=866a6f1b-7229-4210-aae5-71840f002892, flag=0
+Sent: uuid=b834054a-bb7e-4054-818b-96826994f28c, flag=0
+Received: uuid=b834054a-bb7e-4054-818b-96826994f28c, flag=0, same, 0, leader_id=None
+Leader is decided to b834054a-bb7e-4054-818b-96826994f28c
+Sent: uuid=b834054a-bb7e-4054-818b-96826994f28c, flag=1
+Waiting to propagate flag=1...
+Received: uuid=b834054a-bb7e-4054-818b-96826994f28c, flag=0, same, 1, leader_id=b834054a-bb7e-4054-818b-96826994f28c
+Received: uuid=9e26d243-8a3e-438f-9c04-e70c60c6384a, flag=0, less, 1, leader_id=b834054a-bb7e-4054-818b-96826994f28c
