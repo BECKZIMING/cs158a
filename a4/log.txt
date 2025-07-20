@@ -1,0 +1,146 @@
+My UUID: fda8d57a-8a28-44ae-9dac-357653817038
+My UUID: c25859c0-4cf9-43c3-94b0-b06278880c76
+My UUID: f2e3f5f4-a737-4d82-b424-83ab9a2b825e
+My UUID: 9a4cc0ef-92f8-45b7-b295-318e3eda2dbc
+My UUID: b4c42f95-81d4-40b4-ad8c-f5d153e05f4f
+Sent: uuid=9a4cc0ef-92f8-45b7-b295-318e3eda2dbc, flag=0
+Received: uuid=9a4cc0ef-92f8-45b7-b295-318e3eda2dbc, flag=0, less, 0, leader_id=None
+Ignored: uuid=9a4cc0ef-92f8-45b7-b295-318e3eda2dbc, flag=0
+Sent: uuid=b4c42f95-81d4-40b4-ad8c-f5d153e05f4f, flag=0
+Received: uuid=b4c42f95-81d4-40b4-ad8c-f5d153e05f4f, flag=0, greater, 0, leader_id=None
+Sent: uuid=b4c42f95-81d4-40b4-ad8c-f5d153e05f4f, flag=0
+Received: uuid=b4c42f95-81d4-40b4-ad8c-f5d153e05f4f, flag=0, less, 0, leader_id=None
+Ignored: uuid=b4c42f95-81d4-40b4-ad8c-f5d153e05f4f, flag=0
+Timeout: Leader not found
+Timeout: Leader not found
+[Accept Error] [Errno 53] Software caused connection abort
+My UUID: 8aed43cd-b69f-4b0b-82ad-5fb4f95081ec
+My UUID: 05c052e8-b764-4a34-a3c9-39400b10aab7
+My UUID: 87b55903-f668-4a30-b793-d0b877979ad4
+Sent: uuid=8aed43cd-b69f-4b0b-82ad-5fb4f95081ec, flag=0
+Received: uuid=8aed43cd-b69f-4b0b-82ad-5fb4f95081ec, flag=0, greater, 0, leader_id=None
+[Send Error] 'NoneType' object has no attribute 'send'
+Sent: uuid=05c052e8-b764-4a34-a3c9-39400b10aab7, flag=0
+Received: uuid=05c052e8-b764-4a34-a3c9-39400b10aab7, flag=0, less, 0, leader_id=None
+Ignored: uuid=05c052e8-b764-4a34-a3c9-39400b10aab7, flag=0
+Sent: uuid=87b55903-f668-4a30-b793-d0b877979ad4, flag=0
+Received: uuid=87b55903-f668-4a30-b793-d0b877979ad4, flag=0, less, 0, leader_id=None
+Ignored: uuid=87b55903-f668-4a30-b793-d0b877979ad4, flag=0
+Timeout: Leader not found
+Timeout: Leader not found
+Timeout: Leader not found
+My UUID: dd14a77b-dbd7-4b46-8b04-23241b729157
+My UUID: bab8028f-88cf-4291-ad53-ebe2577dfbae
+My UUID: 864b98e4-51d3-4ef4-baa5-972be7c84b2d
+Sent: uuid=dd14a77b-dbd7-4b46-8b04-23241b729157, flag=0
+Received: uuid=dd14a77b-dbd7-4b46-8b04-23241b729157, flag=0, greater, 0, leader_id=None
+[Send Error] 'NoneType' object has no attribute 'send'
+Sent: uuid=bab8028f-88cf-4291-ad53-ebe2577dfbae, flag=0
+Received: uuid=bab8028f-88cf-4291-ad53-ebe2577dfbae, flag=0, greater, 0, leader_id=None
+Sent: uuid=bab8028f-88cf-4291-ad53-ebe2577dfbae, flag=0
+Received: uuid=bab8028f-88cf-4291-ad53-ebe2577dfbae, flag=0, less, 0, leader_id=None
+Ignored: uuid=bab8028f-88cf-4291-ad53-ebe2577dfbae, flag=0
+Sent: uuid=864b98e4-51d3-4ef4-baa5-972be7c84b2d, flag=0
+Received: uuid=864b98e4-51d3-4ef4-baa5-972be7c84b2d, flag=0, less, 0, leader_id=None
+Ignored: uuid=864b98e4-51d3-4ef4-baa5-972be7c84b2d, flag=0
+Timeout: Leader not found
+Timeout: Leader not found
+Timeout: Leader not found
+My UUID: 84d4a76b-e862-40be-b05a-8c2ae7361118
+My UUID: 61e468eb-49d3-453c-a1fb-03102852162e
+My UUID: 3259f911-0faf-42d9-9205-ba52843ed8e4
+Sent: uuid=84d4a76b-e862-40be-b05a-8c2ae7361118, flag=0
+Received: uuid=84d4a76b-e862-40be-b05a-8c2ae7361118, flag=0, greater, 0, leader_id=None
+[Send Error] 'NoneType' object has no attribute 'send'
+Received: uuid=61e468eb-49d3-453c-a1fb-03102852162e, flag=0, less, 0, leader_id=None
+Sent: uuid=61e468eb-49d3-453c-a1fb-03102852162e, flag=0
+Ignored: uuid=61e468eb-49d3-453c-a1fb-03102852162e, flag=0
+Sent: uuid=3259f911-0faf-42d9-9205-ba52843ed8e4, flag=0
+Received: uuid=3259f911-0faf-42d9-9205-ba52843ed8e4, flag=0, less, 0, leader_id=None
+Ignored: uuid=3259f911-0faf-42d9-9205-ba52843ed8e4, flag=0
+Timeout: Leader not found
+Timeout: Leader not found
+Timeout: Leader not found
+My UUID: 8ecc890a-a49b-4861-a999-ddaa5ac00224
+My UUID: afd0ce17-8a36-4bcf-8cf1-5114ffefe4de
+My UUID: fe65a9ef-4a67-44ec-837d-cb82b1700962
+Sent: uuid=8ecc890a-a49b-4861-a999-ddaa5ac00224, flag=0
+Received: uuid=8ecc890a-a49b-4861-a999-ddaa5ac00224, flag=0, less, 0, leader_id=None
+Ignored: uuid=8ecc890a-a49b-4861-a999-ddaa5ac00224, flag=0
+Sent: uuid=afd0ce17-8a36-4bcf-8cf1-5114ffefe4de, flag=0
+Received: uuid=afd0ce17-8a36-4bcf-8cf1-5114ffefe4de, flag=0, greater, 0, leader_id=None
+Sent: uuid=afd0ce17-8a36-4bcf-8cf1-5114ffefe4de, flag=0
+Received: uuid=afd0ce17-8a36-4bcf-8cf1-5114ffefe4de, flag=0, less, 0, leader_id=None
+Ignored: uuid=afd0ce17-8a36-4bcf-8cf1-5114ffefe4de, flag=0
+Sent: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=0
+Received: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=0, greater, 0, leader_id=None
+Sent: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=0
+Received: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=0, greater, 0, leader_id=None
+Sent: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=0
+Received: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=0, same, 0, leader_id=None
+Leader is decided to fe65a9ef-4a67-44ec-837d-cb82b1700962
+Sent: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=1
+Received: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=1, greater, 0, leader_id=None
+Waiting to propagate flag=1...
+Received: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=0, greater, 0, leader_id=None
+Sent: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=0
+Received: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=0, same, 1, leader_id=fe65a9ef-4a67-44ec-837d-cb82b1700962
+Sent: uuid=fe65a9ef-4a67-44ec-837d-cb82b1700962, flag=0
+Timeout: Leader not found
+Timeout: Leader not found
+My UUID: 1d93f762-f6e2-4427-a1c8-7ff435efdc7f
+My UUID: 2173daa1-2d1d-4ef0-8080-6a09cf10c6a0
+My UUID: 442a1986-15b4-4328-a010-30921d9a7871
+My UUID: df09f298-7e04-42ac-8f10-8dc77de646b7
+Sent: uuid=2173daa1-2d1d-4ef0-8080-6a09cf10c6a0, flag=0
+Received: uuid=2173daa1-2d1d-4ef0-8080-6a09cf10c6a0, flag=0, less, 0, leader_id=None
+Ignored: uuid=2173daa1-2d1d-4ef0-8080-6a09cf10c6a0, flag=0
+Sent: uuid=442a1986-15b4-4328-a010-30921d9a7871, flag=0
+Received: uuid=442a1986-15b4-4328-a010-30921d9a7871, flag=0, greater, 0, leader_id=None
+Sent: uuid=442a1986-15b4-4328-a010-30921d9a7871, flag=0
+Received: uuid=442a1986-15b4-4328-a010-30921d9a7871, flag=0, less, 0, leader_id=None
+Ignored: uuid=442a1986-15b4-4328-a010-30921d9a7871, flag=0
+Sent: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=0
+Received: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=0, greater, 0, leader_id=None
+Sent: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=0
+Received: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=0, greater, 0, leader_id=None
+Sent: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=0
+Received: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=0, same, 0, leader_id=None
+Leader is decided to df09f298-7e04-42ac-8f10-8dc77de646b7
+Sent: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=1
+Waiting to propagate flag=1...
+Received: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=1, greater, 0, leader_id=None
+Sent: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=0
+Received: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=0, greater, 0, leader_id=None
+Sent: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=0
+Received: uuid=df09f298-7e04-42ac-8f10-8dc77de646b7, flag=0, same, 1, leader_id=df09f298-7e04-42ac-8f10-8dc77de646b7
+Timeout: Leader not found
+Timeout: Leader not found
+My UUID: 717e860b-9894-4380-b3e7-09ba7f9ac0b3
+My UUID: 94d942ea-abca-4506-8abb-b0274c2d8546
+My UUID: 471adc24-14fd-4e00-8a43-54f0f3d41e0b
+Sent: uuid=717e860b-9894-4380-b3e7-09ba7f9ac0b3, flag=0
+Received: uuid=717e860b-9894-4380-b3e7-09ba7f9ac0b3, flag=0, greater, 0, leader_id=None
+[Send Error] 'NoneType' object has no attribute 'send'
+Sent: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=0
+Received: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=0, greater, 0, leader_id=None
+Sent: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=0
+Received: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=0, greater, 0, leader_id=None
+Sent: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=0
+Received: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=0, same, 0, leader_id=None
+Leader is decided to 94d942ea-abca-4506-8abb-b0274c2d8546
+Sent: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=1
+Waiting to propagate flag=1...
+Received: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=1, greater, 0, leader_id=None
+Leader is decided to 94d942ea-abca-4506-8abb-b0274c2d8546
+Sent: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=1
+Received: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=1, greater, 0, leader_id=None
+Leader is decided to 94d942ea-abca-4506-8abb-b0274c2d8546
+Sent: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=1
+Received: uuid=94d942ea-abca-4506-8abb-b0274c2d8546, flag=1, same, 1, leader_id=94d942ea-abca-4506-8abb-b0274c2d8546
+Received flag=1 for self (done)
+Waiting to propagate flag=1...
+Sent: uuid=471adc24-14fd-4e00-8a43-54f0f3d41e0b, flag=0
+Received: uuid=471adc24-14fd-4e00-8a43-54f0f3d41e0b, flag=0, less, 1, leader_id=94d942ea-abca-4506-8abb-b0274c2d8546
+Ignored: uuid=471adc24-14fd-4e00-8a43-54f0f3d41e0b, flag=0
+Waiting to propagate flag=1...
